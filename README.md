@@ -1,4 +1,4 @@
-##Course project of EE357 Computer Network  
+## Course project of EE357 Computer Network  
 
 We learn about some attack methods in block chain, such selfish mining, stubborn mining and bribery attack, then we find some drawbacks of these methods, so we want to strengthen PoW-based-attack with bribery.  
 Here we do some simulation experiments. We apply our policy both on selfish mining and lead-stubborn mining. In details, we extend the state space, here show the new state machines. 
