@@ -5,9 +5,9 @@ Here we do some simulation experiments. We apply our policy both on selfish mini
 
 
 
-![Improved selfish mining with bribery ](C:\Users\doubl\OneDrive\课程\计算机网络\区块链参考文献\selfishmining_statemachine.png"Improved selfish mining with bribery ") 
+![Improved selfish mining with bribery ](selfishmining_statemachine.png "Improved selfish mining with bribery ") 
 
-![leadstubborn_statemachine](C:\Users\doubl\OneDrive\课程\计算机网络\区块链参考文献\leadstubborn_statemachine.png"improved lead-stubborn mining with bribery")
+![leadstubborn_statemachine](leadstubborn_statemachine.png "improved lead-stubborn mining with bribery")
 
 We code and run some simulation experiments, the results and further discussions can be seen in our report. 
 
